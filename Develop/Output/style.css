@@ -1,0 +1,17 @@
+.card {
+    background-image: linear-gradient(rgb(98, 0, 255), rgb(185, 4, 110));
+    min-width: 20em;
+    margin: 1em;
+  }
+
+ body {
+     background-color: black;
+ } 
+
+ #glow {
+    text-shadow: 1px 0px 0px #686868, 1px 1px 0px #686868, 0px 1px 0px #686868, 
+    -1px 1px 0px #686868, -1px 0px 0px #686868, -1px -1px 0px #686868, 
+    0px -1px 0px #686868, 1px -1px 0px #686868, 1px 4px 5px #aeaeae;
+
+    background-color: black;
+}

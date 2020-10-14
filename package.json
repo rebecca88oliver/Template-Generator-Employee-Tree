@@ -1,0 +1,24 @@
+{
+  "name": "Template-Generator-Employee-Tree",
+  "version": "1.0.0",
+  "description": "Generates an HTML file showing each employee & their roles",
+  "main": "index.js",
+  "dependencies": {
+    "jest": "^26.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebecca88oliver/Template-Generator-Employee-Tree.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebecca88oliver/Template-Generator-Employee-Tree/issues"
+  },
+  "homepage": "https://github.com/rebecca88oliver/Template-Generator-Employee-Tree#readme"
+}
